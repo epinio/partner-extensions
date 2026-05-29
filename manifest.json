@@ -43,7 +43,8 @@
       "repo": "epinio/ui",
       "branch": "gh-pages",
       "versions": [
-        "1.13.10"
+        "1.13.10",
+        "1.14.0"
       ]
     }
   }
